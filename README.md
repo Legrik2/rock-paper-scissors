@@ -2,7 +2,7 @@
 collaboration css assignment
 
 # published code
-`https://github.com/Legrik2/rock-paper-scissors`
+`legrik2.github.io/rock-paper-scissors/`
 
 # getting the code
 Open a terminal and navigate to the folder where you want to save the code. Run the following command:
